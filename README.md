@@ -2,11 +2,11 @@
 
 **CTF challenges generated entirely by chatgpt**
 
-- Original generated [Prompt link] (https://chatgpt.com/share/673471fd-c1f4-8005-8085-007e254ee6c8)
+- Original generated [Prompt link](https://chatgpt.com/share/673471fd-c1f4-8005-8085-007e254ee6c8)
 
 Each challenge was based on what the AI termed as easy, medium and hard.
 
-The below prompt wqs used to generate the different challenges.
+The below prompt was used to generate the different challenges.
 
 > You are an expert cybersecurity professional, responsible for architecture design of unbreakable systems.
 > You have tasked to come up with CTF challenges for an upcoming Hackathon.
@@ -20,11 +20,11 @@ The below prompt wqs used to generate the different challenges.
 
 
 
-##The different catogories are as follows:
+## The different catogories are as follows:
 
 ---
 
-###Category 1: Reverse Engineering
+### Category 1: Reverse Engineering
 
 1. Easy: Simple XOR Encryption
 
@@ -51,7 +51,7 @@ Instructions: Reverse engineer the binary to reveal the hidden flag.
 
 
 
-###Category 2: Web Exploitation
+### Category 2: Web Exploitation
 
 1. Easy: SQL Injection Login Bypass
 
@@ -78,7 +78,7 @@ Instructions: Locate the vulnerable form and craft a payload to retrieve the hid
 
 
 
-###Category 3: Cryptography
+### Category 3: Cryptography
 
 1. Easy: Caesar Cipher
 
@@ -107,7 +107,7 @@ Instructions: Analyze the curve parameters and apply ECC attacks to decrypt the 
 
 
 
-###Category 4: Steganography
+### Category 4: Steganography
 
 1. Easy: LSB Image Steganography
 
@@ -134,7 +134,7 @@ Instructions: Use exiftool to analyze and extract metadata from the PDF file.
 
 
 
-###Category 5: Forensics
+### Category 5: Forensics
 
 1. Easy: Memory Dump Analysis
 
@@ -161,7 +161,7 @@ Instructions: Use Wireshark to analyze the traffic and locate the flag.
 
 
 
-###Category 6: OSINT (Open Source Intelligence)
+### Category 6: OSINT (Open Source Intelligence)
 
 1. Easy: Twitter Search
 
@@ -188,7 +188,7 @@ Instructions: Use Tor and dark web search techniques to find the flag.
 
 
 
-###Category 7: Programming
+### Category 7: Programming
 
 1. Easy: Basic Python Script Analysis
 
@@ -216,7 +216,7 @@ Instructions: Analyze the binary and construct an input that reveals the flag.
 
 
 
-###Category 8: Miscellaneous
+### Category 8: Miscellaneous
 
 1. Easy: Find Hidden Flag in Text File
 
@@ -243,7 +243,7 @@ Instructions: Analyze the USB image and locate the hidden partition to retrieve 
 
 
 
-###Category 9: Web Application Security
+### Category 9: Web Application Security
 
 1. Easy: Directory Enumeration
 
@@ -270,7 +270,7 @@ Instructions: Identify the vulnerable endpoint and craft requests to exploit the
 
 
 
-###Category 10: Malware Analysis
+### Category 10: Malware Analysis
 
 1. Easy: Simple Keylogger Analysis
 
@@ -298,4 +298,6 @@ Instructions: Reverse engineer the RAT and analyze network traffic to retrieve t
 
 > _These challenges progressively test skills across domains from cryptography and programming to network security and reverse engineering, designed to challenge participants at various levels while building up their cybersecurity expertise._
 
+
 ---
+
