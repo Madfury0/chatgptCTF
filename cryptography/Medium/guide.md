@@ -36,13 +36,15 @@ The resulting plaintext should be readable and will typically contain the flag.
 Ensure the output matches the expected flag format (CTF{flag}).
 
 
-Tools and Commands
 
-Factorize: Use factorization tools or libraries (RsaCtfTool, SymPy, or any script for small n).
 
-Modular Arithmetic: Python’s pow(base, exp, mod) function is useful for modular exponentiation.
+##Tools and Commands
 
-Decrypting: Once d is known, plug it into the decryption formula to recover the plaintext.
+- Factorize: Use factorization tools or libraries (RsaCtfTool, SymPy, or any script for small n).
+
+- Modular Arithmetic: Python’s pow(base, exp, mod) function is useful for modular exponentiation.
+
+- Decrypting: Once d is known, plug it into the decryption formula to recover the plaintext.
 
 
 This methodical approach will help you tackle RSA challenges, especially those with weak or small keys.
