@@ -1,0 +1,6 @@
+Public Key Modulus (n): 20988936657440586486151264256610222593863921
+
+Public Exponent (e): 65537
+
+Ciphertext (encrypted flag): 10737418321
+
