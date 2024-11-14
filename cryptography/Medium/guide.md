@@ -18,6 +18,8 @@ A guide on how to tackle the RSA challenge
 
 - Once you have p and q, you can calculate φ(n) = (p-1)(q-1).
 
+- [Github link](https://github.com/skollmann/PyFactorise) to factorize any number in python.
+
 
 3. **Calculate the Private Key**
 
